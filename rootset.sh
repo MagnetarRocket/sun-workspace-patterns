@@ -83,7 +83,7 @@ case "$1" in
 	;;
 
 	18)
-	xsetroot -bitmap wave1.xbm -fg "#bf98b6" -bg "98a2bf"
+	xsetroot -bitmap wave1.xbm -fg "#bf98b6" -bg "#98a2bf"
 	;;
 
 	19)

@@ -6,7 +6,7 @@
 
 # This is a bonus file, while this won't be installed in by the makefile, it can
 # change your root-window's (non-iconed background in x11) colors and bitmaps 
-# aproxmating the old SunOS openWindows workspace patterns. Thus, this can be tought
+# aproxmating the old SunOS openWindows workspace patterns. Thus, this can be thought
 # as a preview before you fully commit installing said workspace-patterns.
 case "$1" in
 
